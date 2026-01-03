@@ -7,8 +7,6 @@ import io
 from PIL import Image
 
 
-
-
 QUEUE_MAXSIZE = 100
 NUM_PROCS = 4
 
